@@ -1,0 +1,11 @@
+C:\Users\olivier\OneDrive - Alte Kantonsschule Aarau\Dokumente\BBBaden\Lernatelier Schneider\LA_1300\LA_1300_NumberGuesserGUI\LA_1300_NumberGuesserGUI\bin\Release\LA_1300_NumberGuesserGUI.exe.config
+C:\Users\olivier\OneDrive - Alte Kantonsschule Aarau\Dokumente\BBBaden\Lernatelier Schneider\LA_1300\LA_1300_NumberGuesserGUI\LA_1300_NumberGuesserGUI\bin\Release\LA_1300_NumberGuesserGUI.exe
+C:\Users\olivier\OneDrive - Alte Kantonsschule Aarau\Dokumente\BBBaden\Lernatelier Schneider\LA_1300\LA_1300_NumberGuesserGUI\LA_1300_NumberGuesserGUI\bin\Release\LA_1300_NumberGuesserGUI.pdb
+C:\Users\olivier\OneDrive - Alte Kantonsschule Aarau\Dokumente\BBBaden\Lernatelier Schneider\LA_1300\LA_1300_NumberGuesserGUI\LA_1300_NumberGuesserGUI\obj\Release\LA_1300_NumberGuesserGUI.csproj.AssemblyReference.cache
+C:\Users\olivier\OneDrive - Alte Kantonsschule Aarau\Dokumente\BBBaden\Lernatelier Schneider\LA_1300\LA_1300_NumberGuesserGUI\LA_1300_NumberGuesserGUI\obj\Release\LA_1300_NumberGuesserGUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\olivier\OneDrive - Alte Kantonsschule Aarau\Dokumente\BBBaden\Lernatelier Schneider\LA_1300\LA_1300_NumberGuesserGUI\LA_1300_NumberGuesserGUI\obj\Release\LA_1300_NumberGuesserGUI.Form1.resources
+C:\Users\olivier\OneDrive - Alte Kantonsschule Aarau\Dokumente\BBBaden\Lernatelier Schneider\LA_1300\LA_1300_NumberGuesserGUI\LA_1300_NumberGuesserGUI\obj\Release\LA_1300_NumberGuesserGUI.Properties.Resources.resources
+C:\Users\olivier\OneDrive - Alte Kantonsschule Aarau\Dokumente\BBBaden\Lernatelier Schneider\LA_1300\LA_1300_NumberGuesserGUI\LA_1300_NumberGuesserGUI\obj\Release\LA_1300_NumberGuesserGUI.csproj.GenerateResource.cache
+C:\Users\olivier\OneDrive - Alte Kantonsschule Aarau\Dokumente\BBBaden\Lernatelier Schneider\LA_1300\LA_1300_NumberGuesserGUI\LA_1300_NumberGuesserGUI\obj\Release\LA_1300_NumberGuesserGUI.csproj.CoreCompileInputs.cache
+C:\Users\olivier\OneDrive - Alte Kantonsschule Aarau\Dokumente\BBBaden\Lernatelier Schneider\LA_1300\LA_1300_NumberGuesserGUI\LA_1300_NumberGuesserGUI\obj\Release\LA_1300_NumberGuesserGUI.exe
+C:\Users\olivier\OneDrive - Alte Kantonsschule Aarau\Dokumente\BBBaden\Lernatelier Schneider\LA_1300\LA_1300_NumberGuesserGUI\LA_1300_NumberGuesserGUI\obj\Release\LA_1300_NumberGuesserGUI.pdb
